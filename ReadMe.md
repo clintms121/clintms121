@@ -1,5 +1,5 @@
 # About Me:
-About Me: I am a Software Engineering Intern at AAON and a junior student-athlete at Rogers State University, where I am pursuing a degree in computer science with a focus on artificial intelligence.
+I am a Software Engineering Intern at AAON and a junior student-athlete at Rogers State University, where I am pursuing a degree in computer science with a focus on artificial intelligence.
 
 
 ## Socials:
